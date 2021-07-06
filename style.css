@@ -1,0 +1,62 @@
+body{
+    font-family: 'Bona Nova', serif;
+}
+#food-network{
+    font-weight: 700;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #name-color{
+      color: chocolate;
+  }
+  h1{
+      font-size: 50px;
+      font-weight: 700;
+  }
+  .top-banner{
+    display: flex;
+    padding-left: 5%;
+    
+}
+#other{
+    color: gray;
+}
+#order-now{
+    text-decoration: none;
+    background-image: linear-gradient(aqua , blue);
+    padding: 10px 40px;
+    font-weight: 700;
+    color: azure;
+    border-radius: 5px;
+}
+#title-p{
+    color: sandybrown;
+    font-size: 20px;
+}
+.title img{
+    padding-left: 300px;
+}
+#about-us{
+    color: gray;
+    padding-left: 300px;
+}
+.middle-banner{
+    display: flex;
+    margin-top: 200px;
+
+}
+.middle img{
+    max-height: 600px;
+    margin-left: 300px;
+}
