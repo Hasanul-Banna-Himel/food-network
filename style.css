@@ -54,9 +54,23 @@ body{
 .middle-banner{
     display: flex;
     margin-top: 200px;
+    background-image: url(images/shapes/7.png);
 
 }
 .middle img{
     max-height: 600px;
     margin-left: 300px;
+}
+h5{
+    font-size: 40px;
+    padding-left: 100px;
+}
+#contact-us{
+    text-decoration: none;
+    background-image: linear-gradient(aqua , blue);
+    padding: 10px 40px;
+    margin-left: 100px;
+    font-weight: 700;
+    color: azure;
+    border-radius: 5px;
 }
