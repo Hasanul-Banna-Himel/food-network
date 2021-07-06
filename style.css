@@ -97,17 +97,51 @@ h5{
     padding-top: 150px;
 }
 #first-cooking img{
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 450px;
+    max-width: 100%;
 }
 #second-cooking img{
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 450px;
+    max-width: 100%;
 }
 #third-cooking img{
-    max-height: 300px;
-    max-width: 300px;
+    max-height: 450px;
+    max-width: 100%;
+    
 }
 #first-cooking{
-    box-shadow: 5px 5px #888888;
+    box-shadow: 5px 5px 20px #888888;
+    margin-left: 5px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+#second-cooking{
+    box-shadow: 5px 5px 20px #888888;
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+#third-cooking{
+    box-shadow: 5px 5px 20px #888888;
+    margin-right: 5px;
+    padding-left: 10px;
+    border-radius: 20px;
+}
+#food-color{
+    color: orange;
+}
+#last-h3{
+    color: white;
+    padding-bottom: 200px;
+}
+.last-part{
+    background-color: black;
+    margin-top: 70px;
+}
+#network{
+    color: white;
+}
+#last-part{
+    padding-top: 20px;
 }
