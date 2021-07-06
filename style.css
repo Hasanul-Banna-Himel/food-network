@@ -3,6 +3,7 @@ body{
 }
 #food-network{
     font-weight: 700;
+    
 }
 .topnav {
     overflow: hidden;
@@ -19,6 +20,7 @@ body{
   }
   #name-color{
       color: chocolate;
+      
   }
   h1{
       font-size: 50px;
@@ -31,6 +33,7 @@ body{
 }
 #other{
     color: gray;
+    padding-top: 200px;
 }
 #order-now{
     text-decoration: none;
@@ -43,9 +46,14 @@ body{
 #title-p{
     color: sandybrown;
     font-size: 20px;
+   
 }
 .title img{
     padding-left: 300px;
+   
+}
+.title{
+    padding-top: 200px;
 }
 #about-us{
     color: gray;
@@ -73,4 +81,33 @@ h5{
     font-weight: 700;
     color: azure;
     border-radius: 5px;
+}
+#my-recipes{
+    color: gray;
+    font-size: 20px;
+}
+#writing{
+    color: black;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.fourth-part{
+    display: flex;
+    padding-top: 150px;
+}
+#first-cooking img{
+    max-height: 300px;
+    max-width: 300px;
+}
+#second-cooking img{
+    max-height: 300px;
+    max-width: 300px;
+}
+#third-cooking img{
+    max-height: 300px;
+    max-width: 300px;
+}
+#first-cooking{
+    box-shadow: 5px 5px #888888;
 }
